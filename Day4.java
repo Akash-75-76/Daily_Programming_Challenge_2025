@@ -1,4 +1,5 @@
-public class Day4{
+
+class Day4{
 
     
     private static int nextGap(int gap) {
